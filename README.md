@@ -34,5 +34,5 @@ Working knowledge of:
     - Typical FPU IP Integration
     - Typical AES IP integration
 
-### License
-
+## License
+See [License.md](https://github.com/arm-university/SoC-design-and-prototyping-Research-Enablement-Kit-/blob/main/License.md) for the full license.
