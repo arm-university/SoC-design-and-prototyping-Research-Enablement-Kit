@@ -14,6 +14,11 @@ Arm DesignStart is the fastest route to designing and prototyping custom SoCs. T
 
 More specifically, it shows how to integrate typical Floating-Point Unit (FPU) and Advanced Encryption Standard (AES) IP cores into a Cortex-M0-based SoC provided by Arm DesignStart.
 
+You will need to download all three elements for this Research Enablement Kit:
+- SoC_Whitepaper
+- cm0_SoC_codebase.zip
+- Cortex-Mo DesignStart Eval. **Please note** that Arm registration is required to download Cortex-M0 DesignStartEval.
+
 ### Suitable for
 Academics and researchers looking to:
 - Integrate their custom IP core into an Arm-based SoC
