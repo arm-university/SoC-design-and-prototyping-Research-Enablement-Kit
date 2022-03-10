@@ -7,19 +7,19 @@ Quick and simple access to Arm and partner-based IP and technologies
 High quality research materials and packages
 Detailed documentation and whitepapers
 
-#### Overview of the kit
+### Overview of the kit
 This kit will help you design and prototype a SoC based on the Arm Cortex-Mo CPU
 
 Arm DesignStart is the fastest route to designing and prototyping custom SoCs. This Research Enablement Kit demonstrates the SoC design flow and shows how to create an Arm-powered SoC using your custom IPs to validate your research effort.
 
 More specifically, it shows how to integrate typical Floating-Point Unit (FPU) and Advanced Encryption Standard (AES) IP cores into a Cortex-M0-based SoC provided by Arm DesignStart.
 
-#### Suitable for
+### Suitable for
 Academics and researchers looking to:
 - Integrate their custom IP core into an Arm-based SoC
 - Use Cortex-M0 in different research areas
 
-#### You will need
+### You will need
 Beginner knowledge of:
 - C
 - SoC Prototyping
@@ -27,7 +27,7 @@ Beginner knowledge of:
 Working knowledge of:
 - Verilog
 
-#### Topics covered
+### Topics covered
 - SoC Design and FPGA Prototyping
     - Arm DesignStart
 - Custom IP integration into a Cortex-M0 based SoC
