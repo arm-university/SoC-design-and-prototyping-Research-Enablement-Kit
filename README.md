@@ -33,3 +33,6 @@ Working knowledge of:
 - Custom IP integration into a Cortex-M0 based SoC
     - Typical FPU IP Integration
     - Typical AES IP integration
+
+### License
+
