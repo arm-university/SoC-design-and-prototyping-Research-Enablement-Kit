@@ -16,7 +16,7 @@ More specifically, it shows how to integrate typical Floating-Point Unit (FPU) a
 
 You will need to download all three elements for this Research Enablement Kit:
 - [SoC_Whitepaper](https://github.com/arm-university/SoC-design-and-prototyping-Research-Enablement-Kit-/blob/main/SoC%20Whitepaper.pdf)
-- cm0_SoC_codebase.zip
+- [cm0_SoC_codebase.zip](https://github.com/arm-university/SoC-design-and-prototyping-Research-Enablement-Kit-/blob/main/cm0_soc_code.zip)
 - Cortex-Mo DesignStart Eval. **Please note** that Arm registration is required to download Cortex-M0 DesignStartEval.
 
 ### Suitable for
