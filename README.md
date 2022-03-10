@@ -18,17 +18,15 @@ You will need to download all three elements for this Research Enablement Kit:
 - [cm0_SoC_codebase.zip](https://github.com/arm-university/SoC-design-and-prototyping-Research-Enablement-Kit-/blob/main/cm0_soc_code.zip)
 - [Cortex-Mo DesignStart Eval](https://www.arm.com/resources/free-evaluation-arm-cpus). **Please note** that Arm registration is required to download Cortex-M0 DesignStartEval.
 
-### Suitable for
-Academics and researchers looking to:
+### Suitable for academics and researchers looking to:
 - Integrate their custom IP core into an Arm-based SoC
 - Use Cortex-M0 in different research areas
 
-### You will need
-Beginner knowledge of:
+### You will need beginner knowledge of:
 - C
 - SoC Prototyping
 
-Working knowledge of:
+### And working knowledge of:
 - Verilog
 
 ### Topics covered
