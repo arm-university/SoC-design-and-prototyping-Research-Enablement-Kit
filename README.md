@@ -1,8 +1,35 @@
-## SoC Design &amp; prototyping
+## SoC design &amp; prototyping Research Enablement Kit
 
 ### Get started on Arm
-Our Research Enablement Kits are designed to help researchers get the most out of widely available Arm technologies, including DesignStart IP and the gem5 open source simulator. They include software packages, models, hardware prototypes, and services to help universities worldwide harness Arm and partner-based technologies and solutions as efficiently as possible. Research Enablement Kits provide:
+The Research Enablement Kits are designed to help researchers get the most out of widely available Arm technologies, including DesignStart IP and [the gem5 open source simulator](https://github.com/arm-university/arm-gem5-rsk). They include software packages, models, hardware prototypes, and services to help universities worldwide harness Arm and partner-based technologies and solutions as efficiently as possible. Research Enablement Kits provide:
 
 Quick and simple access to Arm and partner-based IP and technologies
 High quality research materials and packages
 Detailed documentation and whitepapers
+
+#### Overview of the kit
+This kit will help you design and prototype a SoC based on the Arm Cortex-Mo CPU
+
+Arm DesignStart is the fastest route to designing and prototyping custom SoCs. This Research Enablement Kit demonstrates the SoC design flow and shows how to create an Arm-powered SoC using your custom IPs to validate your research effort.
+
+More specifically, it shows how to integrate typical Floating-Point Unit (FPU) and Advanced Encryption Standard (AES) IP cores into a Cortex-M0-based SoC provided by Arm DesignStart.
+
+#### Suitable for
+Academics and researchers looking to:
+- Integrate their custom IP core into an Arm-based SoC
+- Use Cortex-M0 in different research areas
+
+#### You will need
+Beginner knowledge of:
+- C
+- SoC Prototyping
+
+Working knowledge of:
+- Verilog
+
+#### Topics covered
+- SoC Design and FPGA Prototyping
+    - Arm DesignStart
+- Custom IP integration into a Cortex-M0 based SoC
+    - Typical FPU IP Integration
+    - Typical AES IP integration
