@@ -8,7 +8,7 @@ High quality research materials and packages
 Detailed documentation and whitepapers
 
 ### Overview of the kit
-This kit will help you design and prototype a SoC based on the Arm Cortex-Mo CPU
+This kit will help you design and prototype a SoC based on the Arm Cortex-M0 CPU
 
 Arm DesignStart is the fastest route to designing and prototyping custom SoCs. This Research Enablement Kit demonstrates the SoC design flow and shows how to create an Arm-powered SoC using your custom IPs to validate your research effort.
 
