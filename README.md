@@ -1,5 +1,9 @@
 ## SoC design &amp; prototyping Research Enablement Kit
 
+## Important
+### To download the latest stable version, please click below instead of using the "Download ZIP" button.
+### [Click here to download](https://github.com/arm-university/SoC-design-and-prototyping-Research-Enablement-Kit/releases/download/v1.0.0/SoC-design-and-prototyping-Research-Enablement-Kit-main.zip)
+
 ### Get started on Arm
 The Research Enablement Kits are designed to help researchers get the most out of widely available Arm technologies, including DesignStart IP and [the gem5 open source simulator](https://github.com/arm-university/arm-gem5-rsk). They include software packages, models, hardware prototypes, and services to help universities worldwide harness Arm and partner-based technologies and solutions as efficiently as possible. Research Enablement Kits provide:
 - Quick and simple access to Arm and partner-based IP and technologies
